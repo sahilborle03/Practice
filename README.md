@@ -1,2 +1,2 @@
 # Practice
-Course Practice
+Course Practice.
